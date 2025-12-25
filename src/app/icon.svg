@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="20" fill="#141415"/>
+  <!-- Simple "P" letter for Promptify -->
+  <path d="M35 25 L35 75 M35 25 L55 25 L60 30 L60 45 L55 50 L35 50" stroke="#2DD4BF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Small dot accent -->
+  <circle cx="65" cy="60" r="4" fill="#2DD4BF"/>
+</svg>
