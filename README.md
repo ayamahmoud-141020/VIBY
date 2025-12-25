@@ -6,7 +6,8 @@ Transform your website ideas into comprehensive development plans with AI-powere
 
 **Deployed on Vercel:** [https://viby-lemon.vercel.app/](https://viby-lemon.vercel.app/)
 
-![Promptify Landing Page](https://viby-lemon.vercel.app/)
+<img width="1470" height="905" alt="image" src="https://github.com/user-attachments/assets/266bb948-ef6c-44a2-9feb-9a31d8695960" />
+
 
 The application features a modern, dark-themed interface with:
 - **Elegant Hero Section**: Gradient title "Transform Your Website Ideas" with animated background
